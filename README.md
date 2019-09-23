@@ -1,4 +1,6 @@
-# AngGame
+# Tic-tac-toe game with Angular
+
+![alt tag](https://github.com/caleboki/tic-tac-toe-angular/raw/master/tic-tac.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 

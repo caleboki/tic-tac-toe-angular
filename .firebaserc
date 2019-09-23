@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ticktack-f6119": {
+      "hosting": {
+        "ang-game": [
+          "ticktack-f6119"
+        ]
+      }
+    }
+  }
+}
